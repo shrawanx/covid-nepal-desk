@@ -13,6 +13,11 @@
 - Plasma Connect [http://plasmaconnect.org/](http://plasmaconnect.org/)
 
 
+## Social Network Groups/Links
+- Plasma Bank Nepal FB Group [https://www.facebook.com/groups/1220011578350038](https://www.facebook.com/groups/1220011578350038) 
+- Covid Plasma Help Nepal Network FB Page [https://www.facebook.com/covidnepalnetwork/](https://www.facebook.com/covidnepalnetwork/)
+
+
 ``
 Note: This is just a collection and i/we do not guarantee if it works. Stay safe everyone. 
 ``
