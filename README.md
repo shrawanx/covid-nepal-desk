@@ -11,6 +11,7 @@
 
 ## Useful supports
 - Search your needs [https://nepalcovidsupport.com/](https://nepalcovidsupport.com/) 
+- Request or offer help [https://covid.mediaholic.com.np/](https://covid.mediaholic.com.np/)
 - Request or offer help [https://covidconnectnp.org/](https://covidconnectnp.org/)
 - Plasma Connect [http://plasmaconnect.org/](http://plasmaconnect.org/)
 
