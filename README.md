@@ -1,6 +1,9 @@
 ## COVID-19 Nepal
 ### This project contains some useful links and information regarding COVID-19 in Nepal
 
+## Register for vaccine
+- [http://vaccine.mohp.gov.np/](http://vaccine.mohp.gov.np/) `Note: this site is available on http:// only as of May 12 2021`
+
 ## Government Links
 
 - [COVID-19 Dashboard by Ministry of Health and Population](https://covid19.mohp.gov.np/)
