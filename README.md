@@ -10,6 +10,7 @@
 - [COVID-19 Crisis Management Center (CCMC)](https://ccmc.gov.np/)
 - [COVID-19 Testing Status at National Public Health Laboratory, Teku](https://nphl.gov.np/covid19)
 - [COVID-19 Information & Learning](https://learning.covid19.gov.np)
+- [COVID-19 Vaccine Application Form](http://vaccine.mohp.gov.np)
 
 
 ## Useful supports
@@ -17,6 +18,7 @@
 - Request or offer help [https://covid.mediaholic.com.np/](https://covid.mediaholic.com.np/)
 - Request or offer help [https://covidconnectnp.org/](https://covidconnectnp.org/)
 - Plasma Connect [http://plasmaconnect.org/](http://plasmaconnect.org/)
+- Plasma by Hamro Lifebank [https://hamrolifebank.com/plasma](https://hamrolifebank.com/plasma)
 
 
 
