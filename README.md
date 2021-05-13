@@ -2,7 +2,7 @@
 ### This project contains some useful links and information regarding COVID-19 in Nepal
 
 ## Register for vaccine
-- [http://vaccine.mohp.gov.np/](http://vaccine.mohp.gov.np/) `Note: this site is available on http:// only as of May 12 2021`
+- [https://vaccine.mohp.gov.np/](https://vaccine.mohp.gov.np/)
 
 ## Government Links
 
@@ -10,7 +10,7 @@
 - [COVID-19 Crisis Management Center (CCMC)](https://ccmc.gov.np/)
 - [COVID-19 Testing Status at National Public Health Laboratory, Teku](https://nphl.gov.np/covid19)
 - [COVID-19 Information & Learning](https://learning.covid19.gov.np)
-- [COVID-19 Vaccine Application Form](http://vaccine.mohp.gov.np)
+- [COVID-19 Vaccine Application Form](https://vaccine.mohp.gov.np)
 
 
 ## Useful supports
