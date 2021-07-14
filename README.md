@@ -19,6 +19,7 @@
 - Request or offer help [https://covidconnectnp.org/](https://covidconnectnp.org/)
 - Plasma Connect [http://plasmaconnect.org/](http://plasmaconnect.org/)
 - Plasma by Hamro Lifebank [https://hamrolifebank.com/plasma](https://hamrolifebank.com/plasma)
+- COVID-19 Resource aggregated spreadsheet [https://docs.google.com/spreadsheets/d/1wm_wJ1UMlbPpBSHHCUeGyd9udHmj1x1JzfI_ky2l32Q/htmlview](https://docs.google.com/spreadsheets/d/1wm_wJ1UMlbPpBSHHCUeGyd9udHmj1x1JzfI_ky2l32Q/htmlview)
 
 
 
